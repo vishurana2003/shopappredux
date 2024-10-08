@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vishurana2003/shopappredux/static/css/main.92b43ed6.css",
+    "main.js": "/vishurana2003/shopappredux/static/js/main.61b4f6d2.js",
+    "index.html": "/vishurana2003/shopappredux/index.html",
+    "main.92b43ed6.css.map": "/vishurana2003/shopappredux/static/css/main.92b43ed6.css.map",
+    "main.61b4f6d2.js.map": "/vishurana2003/shopappredux/static/js/main.61b4f6d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92b43ed6.css",
+    "static/js/main.61b4f6d2.js"
+  ]
+}
